@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [emirhanmtl.medium.com](https://emirhanmtl.medium.com/)
 
-- 📫 How to reach me [linkedin.com/in/emirhanmtl]**linkedin.com/in/emirhanmtl**
+- 📫 How to reach me [linkedin.com/in/emirhanmtl](linkedin.com/in/emirhanmtl)
 
 - ⚡ Fun fact **I like motorcycles a lot**
 
