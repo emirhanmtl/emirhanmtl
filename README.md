@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Web Application Security & Penetration Testing**
 
-- 📝 I regularly write articles on [emirhanmtl.medium.com]
+- 📝 I regularly write articles on [emirhanmtl.medium.com](https://emirhanmtl.medium.com/)
 
 - 📫 How to reach me **linkedin.com/in/emirhanmtl**
 
