@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emirhan Mutlu</h1>
-<h3 align="center">A passionate Penetration Tester and Security Researcher.</h3>
+<h3 align="center">A passionate Security Researcher.</h3>
 
 - 🔭 I’m currently working as **Jr. Penetration Tester**
 
