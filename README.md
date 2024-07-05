@@ -1,11 +1,7 @@
 <h1 align="center">Hi, I'm Emirhan Mutlu!</h1>
 <h3 align="center">A passionate Security Researcher</h3>
 
-- 🔭 I’m currently working as **Jr. Penetration Tester**
-
-- 🌱 I’m currently learning **Web Application Security & Penetration Testing**
-
-- 📝 I regularly write articles on [Medium](https://emirhanmtl.medium.com/)
+- 🔭 I’m currently working as **Penetration Tester**
 
 - 📫 How to reach me [LinkedIn](https://linkedin.com/in/emirhanmtl)
 
